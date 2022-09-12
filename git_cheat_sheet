@@ -1,0 +1,4 @@
+$add file -> fügt die ausgewählte Datei zur Staging Area hinzu
+$git status -> Status der zuvor hinzugefügten Datei in Staging Area überprüfen
+$git commit -m 'message' -> überführt Datei(en) von Staging Area in lokales Repository mit der angegebenen Nachricht
+$git push -> überführt Datei(en) vom lokalen in online Repository
